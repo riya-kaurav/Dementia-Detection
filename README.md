@@ -1,10 +1,7 @@
 
 # 🧠 AI Tool for Early-Stage Dementia Detection
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Active-brightgreen)
-![Tech](https://img.shields.io/badge/AI-Powered-orange)
-![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Mobile-lightgrey)
+
 
 ---
 
@@ -88,6 +85,4 @@ AI-Dementia-Detection/
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
