@@ -39,7 +39,7 @@ This project is a *low-cost, accessible AI screening tool* that analyzes *speech
 
 
 AI-Dementia-Detection/
-│
+```
 ├── frontend/                
 │   ├── public/
 │   ├── src/
@@ -77,7 +77,7 @@ AI-Dementia-Detection/
 ├── README.md
 └── LICENSE
 
-
+```
 
 ---
 ## 🤝 Contributing
